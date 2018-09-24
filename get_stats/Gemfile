@@ -1,0 +1,4 @@
+source "http://rubygems.org"
+
+gem 'cld', '0.6.0'
+gem 'json'

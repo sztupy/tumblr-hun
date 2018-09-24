@@ -1,0 +1,17 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    cld (0.6.0)
+      ffi
+    ffi (1.9.25-x64-mingw32)
+    json (2.1.0)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  cld (= 0.6.0)
+  json
+
+BUNDLED WITH
+   1.11.2
