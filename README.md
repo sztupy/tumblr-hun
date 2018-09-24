@@ -25,6 +25,10 @@ Top 1000 blogs based on the blogs in the `blog-list.txt` based on the following 
 - `Is reblogged from`: how many times any content was reblogged from this user directly
 - `The root content that is reblogged`: how many times any content posted by this user was reblogged by others
 
+## `full-hungarian-blog-list.txt`
+
+A list of all blogs who ever posted content that contains Hungarian text as determined by CLD.
+The file is ordered by the number of hungarian content in these blogs, so names earlier are more likely to be really Hungarian than names at the back
 
 ## `download`
 
